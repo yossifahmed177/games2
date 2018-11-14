@@ -1,4 +1,4 @@
-	const Discord = require('discord.js');
+408396389291393025	const Discord = require('discord.js');
 const client = new Discord.Client();
 const fs = require("fs"); 
 const Canvas = require("canvas");
@@ -580,7 +580,7 @@ reaction3.on("collect", r => {
     })
 }
 });
-const devs = ["429972030092476437"]
+const devs = ["408396389291393025"]
 
 const adminprefix = "#";
 client.on('message', message => {
